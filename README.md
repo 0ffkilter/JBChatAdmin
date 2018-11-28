@@ -45,7 +45,7 @@ It would be `1940745902642796`
 
 ## Data privacy 
 
-I do not store any information past the messages you send to Jerry bot (mostly for debugging).  If you send Jerry Bot a message, I may read (though I probably won't.). If you ask me why you weren't added to a group, I may read the message. If you send personal information to Jerry bot then ask me to read the message, I will have your personal information.  Please do not send me personal information.  
+I do not store any information past the messages you send to Jerry bot (mostly for debugging), which are stored by fb itself not me.  If you send Jerry Bot a message, I may read (though I probably won't.). If you ask me why you weren't added to a group, I may read the message. If you send personal information to Jerry bot then ask me to read the message, I will have your personal information.  Please do not send me personal information.  
 
 If you are in the EU, and would like to see the messages you have sent to JerryBot by using GDPR instead of just looking at the messages you sent, I will send you the messages.  
 
