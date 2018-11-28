@@ -6,7 +6,8 @@ from modules.add_user import add_user
 modules = {
     "add" : (add_user, [MESSAGE_THREADID,
                        MESSAGE_AUTHOR,
-                       FN_ADDUSER]),
+                       FN_ADDUSER,
+                       FN_GET_NAME]),
     "quote": (imagequote, [MESSAGE_THREADID,
                            FN_SEND_IMAGE]),
     "reroll": (reroll, [MESSAGE_THREADID,
