@@ -3,7 +3,6 @@ from fbchat import Client
 from fbchat.models import *
 from credentials import USERNAME, PASSWORD
 from modules.modules import modules
-from modules.tag import tag
 from configuration import prefixes
 import sys
 import multiprocessing
